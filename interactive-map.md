@@ -23,7 +23,7 @@ Technologies:
  - Manage asynchronous and realtime flux of data
  - Integrate external library
 
-Some key words that interests us: asynchronous, spinner, error handling, KISS, UI/UX
+Some key words that interests us: asynchronous, spinner, error handling, KISS, UI/UX, easter egg
 
 ## Description
 
