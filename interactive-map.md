@@ -46,6 +46,6 @@ The map should be synchronized in real time using Kuzzle's realtime engine. This
 _It's up to you to look deep into the documentation_
 
  - [Run Kuzzle Backend](https://docs.kuzzle.io/core/2/guides/getting-started/run-kuzzle/)
- - [Data Storager Guide](https://docs.kuzzle.io/core/2/guides/main-concepts/data-storage/)
+ - [Data Storage Guide](https://docs.kuzzle.io/core/2/guides/main-concepts/data-storage/)
  - [Realtime Guide](https://docs.kuzzle.io/core/2/guides/main-concepts/realtime-engine/)
  - [Javascript SDK](https://docs.kuzzle.io/sdk/js/7/)
