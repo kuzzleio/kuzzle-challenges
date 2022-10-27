@@ -2,7 +2,17 @@
 
 In this challenge you will create an interactive map that displays markers representing Points of Interests.
 
-Estimated time: 3 hours
+Estimated time:
+ - Junior: 4 hours
+ - Middle: 3 hours
+ - Senior: 2 hours
+ - Liar: 1 hour
+
+Technologies:
+ - Kuzzle Backend
+ - Kuzzle JS SDK
+ - Vue.js
+ - Typescript
 
 ## Goals
 
