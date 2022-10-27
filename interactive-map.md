@@ -2,6 +2,8 @@
 
 In this challenge you will create an interactive map that displays markers representing Points of Interests.
 
+Estimated time: 3 hours
+
 ## Goals
 
  - Understand client need from basic spec
