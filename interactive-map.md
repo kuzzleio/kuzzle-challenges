@@ -39,7 +39,7 @@ Clicking on a yellow POI changes its color to green to indicate that it has been
 
 A click on a green POI deletes it.
 
-The map should be synchronized in real time using Kuzzle's realtime engine. This means that if I open two tabs and add a POI from one tab, it appears in the other tab simultaneously.
+BONUS: The map should be synchronized in real time using Kuzzle's realtime engine. This means that if I open two tabs and add a POI from one tab, it appears in the other tab simultaneously.
 
 ## Resources
 
