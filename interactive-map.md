@@ -21,9 +21,9 @@ Technologies:
  - Ability to find information in documentation
  - Fetch data from Kuzzle API using the SDK
  - Manage asynchronous and realtime flux of data
- - Integrate a Map with Leaflet
+ - Integrate a Map with Leaflet (or another lib) 
 
-Some key words that interests us: asynchronous, spinner, error handling, KISS, UI/UX, easter egg
+Some key words that interests us: asynchronous, spinner, error handling, KISS, UI/UX, easter egg, clean code, maintainability 
 
 ## Description
 
