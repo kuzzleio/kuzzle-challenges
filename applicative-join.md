@@ -21,7 +21,7 @@ Some key words that interests us: developer experience, KISS, clean code, mainta
 
 ## Description
 
-This challenge aims to reproduce an INNER JOIN in Elasticsearch, a NoSQL database.
+This challenge aims to reproduce partially an INNER JOIN in Elasticsearch, a NoSQL database.
 
 The solution have to be generic and developed to be exposed as a library for other developers.
 
@@ -37,10 +37,11 @@ Finally, we will ask you to describe the limits of this kind of system.
 
 BONUS:
  - being able to join through any number (depth) of tables (e.g. Book with author from France: books -> authors -> cities -> countries)
+ - add filter in addition to the join result (e.g books with more than 200 pages and with author born after 1945)
  - any kind of optimization
  - something less boring than books, authors, cities, countries etc
 
-## Example usage
+### Example usage
 
 I have a collection containing books and another containing authors.
 
@@ -54,3 +55,4 @@ _It's up to you to look deep into the documentation_
 
  - [Elasticsearch JS SDK](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html#_search)
  - [Terms Query](https://docs.kuzzle.io/core/2/guides/main-concepts/realtime-engine/)
+ - [Range Query](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-range-query.html)
