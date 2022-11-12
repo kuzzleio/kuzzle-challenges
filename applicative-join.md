@@ -1,5 +1,7 @@
 # Applicative Join (in NoSQL)
 
+This challenge is about developing a generic applicative join for Elasticsearch.
+
 Estimated time:
  - Junior: 6 hours (don't give up, it's a difficult one, we know it)
  - Middle: 4 hours
@@ -14,8 +16,8 @@ Technologies:
  - Understand client need from basic spec
  - Use vendor SDK
  - Ability to find information in documentation
- - Basic usage of Elasticsearch API
- - Arguments over advantages and limits of a solution
+ - Know basic usage of Elasticsearch API
+ - Argument over advantages and limits of a solution
 
 Some key words that interests us: developer experience, KISS, clean code, maintainability
 
@@ -29,7 +31,7 @@ Typically, an extension of Elasticsearch Query DSL, with a new operator to handl
 
 The library need to expose a method/class who handle a join query between at least 2 collections.
 
-You need to use Elasticsearch Javascript SDK to send the queries.
+You need to use one of the Elasticsearch client to send the queries.
 
 Creating a small and meaningful set of data is part of the test, typically we expect at least 2 collections and 1 relationship one-to-many materialized by a foreign key.
 
@@ -53,6 +55,5 @@ I want to retrieve all books which have been wrote by an author born between 193
 
 _It's up to you to look deep into the documentation_
 
- - [Elasticsearch JS SDK](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/api-reference.html#_search)
- - [Terms Query](https://docs.kuzzle.io/core/2/guides/main-concepts/realtime-engine/)
+ - [Terms Query](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-terms-query.html)
  - [Range Query](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-range-query.html)
