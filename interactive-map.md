@@ -53,4 +53,4 @@ _It's up to you to look deep into the documentation_
 
 ## Hall of Fame
 
-  - Julien D, 8/10, Junior, 6 hours
+  - Julien D, 7/10, Junior, 6 hours
