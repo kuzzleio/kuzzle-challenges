@@ -54,3 +54,4 @@ _It's up to you to look deep into the documentation_
 ## Hall of Fame
 
   - Julien D, 7/10, Junior, 6 hours
+  - Dorian R, 8.5/10, Intermédiaire, 5 hours
