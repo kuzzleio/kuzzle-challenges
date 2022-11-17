@@ -21,9 +21,9 @@ Technologies:
  - Ability to find information in documentation
  - Fetch data from Kuzzle API using the SDK
  - Manage asynchronous and realtime flux of data
- - Integrate a Map with Leaflet (or another lib) 
+ - Integrate a Map with Leaflet (or another lib)
 
-Some key words that interests us: asynchronous, spinner, error handling, KISS, UI/UX, easter egg, clean code, maintainability 
+Some key words that interests us: asynchronous, spinner, error handling, KISS, UI/UX, easter egg, clean code, maintainability
 
 ## Description
 
@@ -50,3 +50,7 @@ _It's up to you to look deep into the documentation_
  - [Realtime Guide](https://docs.kuzzle.io/core/2/guides/main-concepts/realtime-engine/)
  - [Javascript SDK](https://docs.kuzzle.io/sdk/js/7/)
  - [Vue Leaflet (Map)](https://github.com/vue-leaflet/vue-leaflet)
+
+## Hall of Fame
+
+  - Julien D, 7/10, Junior, 6 hours
